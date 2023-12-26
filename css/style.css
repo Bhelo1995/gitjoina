@@ -4,6 +4,8 @@
     --secondary: #F6F6F6;
     --light: #FFFFFF;
     --dark: #152440;
+
+
 }
 
 .logo {
@@ -273,13 +275,9 @@ h6,
 } */
 
 p.one{
-    font-size:x-large;
-    color: #ffffff;
-    font-weight: bold
-    
-
-
-    ;
+    font-size: xx-large
+    color white 
+    fontweight medium
 }
 
 .flip-card {
@@ -295,7 +293,7 @@ p.one{
     position: relative;
     width: 100%;
     height: 100%;
-    text-align: center;
+    text-align: center; 
     transition: transform 0.8s;
     transform-style: preserve-3d;
   }

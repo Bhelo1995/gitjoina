@@ -59,14 +59,11 @@
     <!-- Digital transformation information start-->
     <div class="container-fluid p-0">
         <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
-            <div class="carousel-inner" style="height:250px;">
+            <div class="carousel-inner" style="height:80px;">
                 <div class="carousel-item active carousel-max-height">
                     <img class="w-100" src="../../img/bg4.png" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center" style="margin-bottom: 100px;">
-                        <div class="p-3" style="max-width: 1100px; margin-bottom: 400px;">
-                            <h5 class="text-white text-uppercase">MARYTECHENOCK IT Solutions Specialist</h5>
-                            <h4 class="align-text-center display-1 text-black mb-md-4" style="text-align: center; color: aliceblue; font-size: 50px;">Lets Build Your Dream Together</h4>
-                            <p data-animation="fadeInUp" data-delay="" style="text-align: center;">At MARYTECHENOCK SOLUTION, we look beyond technology to take a holistic view of every aspect of a client’s business. <br/><br/> We take into consideration our client’s internal structure, culture, current technology, and methods of business,<br/>  and we advise them on whether a new digital infrastructure is the best way to achieve their goals.</p>
+                        <div class="p-3" style="max-width: 1050px; margin-bottom: 200px;">
                         </div>
                     </div>
                 </div>
@@ -77,10 +74,9 @@
     <div class="container-fluid pt-6 px-5" style="min-height: 500px; text-align: center;">
        
                             <div class="row g-5">
-                            
                                 <div class="col-lg-4 col-md-6">
                                     <div class="flip-card">
-                                    <div class="flip-card-inner service-item bg-secondary text-center px-3">
+                                    <div class="flip-card-inner service-item bg-secondary text-center px-5">
                                         <div class="flip-card-back d-flex align-items-center justify-content-center bg-primary text-white rounded-circle mx-auto mb-4" style="width: 60px; height: 60px;">
                                             <i class="fa -user-tie fa-2x"></i><img class="w-100" src="../../img/Marytech Logo_Red-03.png" alt="Image">
                                         </div>
@@ -88,12 +84,9 @@
                                             <h5 class="mb-3">Digital Strategy</h5>
                                             <p class="mb-0">We develop strategic roadmaps tailored to our clients’ people, processes, and technology.</p>                           
                                             <a href="./digital-transformation-services/digital-strategy.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
-                                        
-                                        </div>
-                                    
+                                        </div>                  
                                     </div>
                                     </div>
-                                    
                                 </div>
                                 <div class="col-lg-4 col-md-6">
                                     <div class="service-item bg-secondary text-center px-3">

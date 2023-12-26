@@ -46,19 +46,32 @@
           ?>
               <a href="<?php echo $indexUrl; ?>" class="nav-item nav-link active"><i class="fa-solid fa-house"></i>Home</a>
               
-              <a href="<?php echo $aboutURL  ?>" class="nav-item nav-link">About</a>
               <a href="<?php echo $serviceURL;  ?>" class="nav-item nav-link">Services</a>
               <div class="nav-item dropdown">
-                  <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Academics</a>
+                  <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Technology</a>
                   <div class="dropdown-menu m-0">
-                      <a href="./html/pages/blog.php" class="dropdown-item">Blog Grid</a>
-                      <a href="html/pages/detail.php" class="dropdown-item">Blog Detail</a>
-                      <a href="html/pages/feature.php" class="dropdown-item">Features</a>
-                      <a href="html/pages/quote.php" class="dropdown-item">Quote Form</a>
-                      <a href="html/pages/team.php" class="dropdown-item">The Team</a>
-                      <a href="html/pages/testimonial.php" class="dropdown-item">Testimonial</a>
+                      <a href="./html/pages/blog.php" class=" dropdown-item">Odoo ERP SYSTEM</a>
+                      <a href="html/pages/detail.php" class=" dropdown-item">Sage Business Cloud X3</a>
+                      <a href="html/pages/feature.php" class=" dropdown-item">Cin7 Core (formerly known as DEAR)</a>
+
                   </div>
               </div>
+              <div class="nav-item dropdown">
+                  <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Academic Courses</a>
+                  <div class="dropdown-menu m-0">
+                      <a href="./html/pages/blog.php" class="dropdown-item">Internet of things (IOT)</a>
+                      <a href="html/pages/detail.php" class="dropdown-item">Cloud System Analyst</a>
+                      <a href="html/pages/feature.php" class=" dropdown-item">Digital Marketing</a>
+                      <a href="html/pages/quote.php" class=" dropdown-item">Certified Financial Markets</a>
+                      <a href="html/pages/team.php" class=" dropdown-item">Certified Bookkeeper (Quickbooks) & (Excel)</a>
+                      <a href="html/pages/testimonial.php" class=" dropdown-item">Cyber Security</a>
+                      <a href="html/pages/testimonial.php" class=" dropdown-item">Artificial Intelligents Professional</a>
+                      <a href="html/pages/testimonial.php" class=" dropdown-item">Certified Winning Pitch</a>
+                      <a href="html/pages/testimonial.php" class=" dropdown-item">Certified Data Science</a>
+
+                  </div>
+              </div>
+              <a href="<?php echo $aboutURL  ?>" class="nav-item nav-link">About</a>
               <a href="<?php echo $contactURL;?>" class="nav-item nav-link">Contact</a>
           </div>
       </div>

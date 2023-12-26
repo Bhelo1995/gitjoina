@@ -72,7 +72,7 @@
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Pages</a>
                     <div class="dropdown-menu m-0">
-                        <a href="blog.html" class="dropdown-item active">Blog Grid</a>
+                        <a href="blog.html" class="dropdown-item active">Certified Internet of things</a>
                         <a href="detail.html" class="dropdown-item">Blog Detail</a>
                         <a href="feature.html" class="dropdown-item">Features</a>
                         <a href="quote.html" class="dropdown-item">Quote Form</a>

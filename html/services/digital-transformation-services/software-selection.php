@@ -52,19 +52,13 @@
     </div>
     <!-- Page Header End -->
 
-    <!-- Digital marketing information start-->
-    <!-- <div class="container-fluid pt-6 px-5" style="min-height: 500px;">
-        SOFTWARE SELECTION INFO HERE... <br>
-        <a href="../digital-transformation.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Go Back To Digital Transformation Services</a>
-        <a href="../../service.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Go Back To All Services</a> <br>
-    </div> -->
-    <!-- Digital marketing information end-->
     <!-- Quote Start -->
-<div class="container-fluid bg-secondary px-0" id="quote-form">
+<div class="container-fluid bg-secondary px-10" id="quote-form">
     <div class="row g-0">
         <div class="col-lg-6 py-6 px-5">
-            <h1 class="display-5 mb-4">Software-Selection</h1>
-            <p class="mb-4"> Choosing the right software is a journey. At Marytechenock Solution, we help your organisation select the best software. Unlike big-box consulting agencies, we don’t sell software. We simply help clients select the best ERP, CRM, HCM, WMS, or emerging technology solutions based on our extensive experience with various technologies matched with the distinct characteristics of each client. We guide organisations across all industries to find the best fit for their unique operational needs.</p>
+        <h5 class="text-primary display-8 mb-3">Digital transformation</h5>
+            <h1 class="display-5 mb-4">Software Selection</h1>
+            <p class="mb-4"> Choosing the appropriate software is an adventure. To the best of our ability, Marytechenock Solution assists your organisation in selecting the best technology on our bucket list.<p></p>Unlike large consulting firms, we do not sell software. We simply assist clients in selecting the optimal ERP, CRM, HCM, WMS, or emerging technology solutions based on our broad knowledge with multiple technologies and each client's unique characteristics. <p></p>We help businesses of all sizes find the right solution for their specific operational requirements.</p>
         </div>
         <div class="col-lg-6" style="min-height: 400px;">
             <div class="position-relative h-100">
@@ -73,24 +67,30 @@
         </div>
     </div>
 </div>
-<div class="container-fluid bg-secondary px-0" id="quote-form" style="margin-top: 30px;">
-    <div class="row g-0">
+        </div>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <h1 class="display-10 mb-4" style="text-align: center;">The Selection Process, Simplified</h1>
+            <p style="text-align: center;">Our proprietary database allows us to analyze vendors that meet our clients’ business requirements to streamline the selection process. We also provide the following services to make each client’s selection experience as pain-free as possible.</p>
+    </div>
+    <div class="row g-0 mt-2">
         <div class="col-lg-6" style="min-height: 400px;">
             <div class="position-relative h-100">
-                <img class="position-absolute w-100 h-100" src="../../../img/one.png" style="object-fit: cover;">
+                <img class="mt-4 rounded position-absolute w-100 h-100" src="../../../img/Destination.jpeg" style="object-fit: cover;">
             </div>
         </div>
-        <div class="col-lg-6 py-6 px-5">
-            <h1 class="display-5 mb-4">The Selection Process, Simplified</h1>
-            <p class="mb-4">Our proprietary database allows us to analyze vendors that meet our clients’ business requirements to streamline the selection process. We also provide the following services to make each client’s selection experience as pain-free as possible.
-                <h5 class="text-black text-lower Case"></h5> Evaluation & Requirements
 
-                Business & Functionality 
-                We help clients nail down their must-haves and deal-breaker requirements to narrow the pool.
-                Realistic Goals
-                We’ll conduct implementation planning to develop a realistic budget and rollout plan.
-                Best-Fit Solutions
-                Our experts identify the best technologies to support our clients’ people, processes, and culture.</p>
+        <div class="col-lg-6 py-6 px-5">
+            <h3 class="display-7 mb-4">Evaluation & Requirements</h3>
+            <h5>Business & Functionality </h5>
+            <p class="mb-4">We help clients nail down their must-haves and deal-breaker requirements to narrow the pool.</p>
+            <h5>Realistic Goals</h5>
+            <p></p>We’ll conduct implementation planning to develop a realistic budget and rollout plan.</p>
+            <h5>Best-Fit Solutions</h5>
+            <p></p>Our experts identify the best technologies to support our clients’ people, processes, and culture.</p>
         </div>
         
     </div>
@@ -99,8 +99,12 @@
     <div class="row g-0">
         <div class="col-lg-6 py-6 px-5">
             <h1 class="display-5 mb-4">What We’ll Handle</h1>
-            <p class="mb-4">Negotiations with Vendors We speak the language and can see through sparkly sales pitches to understand a vendor’s offerings and capabilities.<h5 class="text-black text-lower Case"></h5>Software Workshops
-                We join our clients during software demos to evaluate whether the solutions meet their requirements.<h5 class="text-black text-lower Case"></h5>Guiding the Transition Consider us a resource, from the first brainstorm session to a successful go live and beyond.</p>
+            <h5>Negotiations with Vendors </h5>
+            <p class="mb-4">WWe speak the language and can see through sparkly sales pitches to understand a vendor’s offerings and capabilities.</p>
+            <h5>Software Workshops</h5>
+            <p></p>We join our clients during software demos to evaluate whether the solutions meet their requirements.</p>
+            <h5>Guiding the Transition</h5>
+            <p></p>Consider us a resource, from the first brainstorm session to a successful go live and beyond.</p>
         </div>
         <div class="col-lg-6" style="min-height: 400px;">
             <div class="position-relative h-100">

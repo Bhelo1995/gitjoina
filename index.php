@@ -52,7 +52,7 @@
                             <p></p>
                             <h2 class="text-primary text-uppercase">CONSULTANCY</h2>
                             <p></p>
-                            <h3 class="text-white mb-md-4">Your Leading Digital Transformation Expert in Africa</h3>
+                            <h3 class="text-white mb-md-4">Your Leading Digital Transformation Expert in (SADC)</h3>
                             <p></p>
                             <p data-animation="fadeInUp" class="one myTextStyling" data-delay="" >We understand that navigating into todays technology climate can be bit frustrating, especially within the digital transformation industry and key distinction required for it to be successful.
                                 MARYTECHENOCK SOLUTIONS serves as an technology-agnostic advisor and collaborative partner to our client community. We provide unparallel industry expertise and proven methodologies to optimize any technology transformation and maximize business value. </p>
@@ -112,8 +112,8 @@
                             <i class="fa -balance-scale fs-4"></i><img class="w-100" src="img/Marytech Logo_Red-03.png" alt="Image">
                         </div>
                         <div class="ps-4">
-                            <h3>ERP software Implemenation Consulting</h3>
-                            <p class="mb-0">As an ERP consulting company we help organization manage and automate their core day-to-day business processes through the efficient use of enterprise resource planning (ERP) software. MARYTECHENOCK SOLUTIONS offers services and activities to guide companies through ERP implementation and optimization.</p>
+                            <h3>ERP software Implementation Consulting</h3>
+                            <p class="mb-0">As an ERP consulting company we help organisation manage and automate their core day-to-day business processes through the efficient use of enterprise resource planning (ERP) software. MARYTECHENOCK SOLUTIONS offers services and activities to guide companies through ERP implementation and optimization.</p>
                         </div>
                     </div>
                 </div>

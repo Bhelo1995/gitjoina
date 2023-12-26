@@ -56,53 +56,52 @@
 <div class="container-fluid bg-secondary px-0" id="quote-form">
     <div class="row g-0">
         <div class="col-lg-6 py-6 px-5">
-            <h1 class="display-5 mb-4">Digital Strategy</h1>
-            <h1 class="text-primary">Beloved</h1>
-            <h2> Beloved</h2>
-            <h3>Beloved</h3>
-            <h4>Beloved</h4>
-            <h5>Beloved</h5>
-            <p class="mb-4">Many organisations are unsure where to begin with their digital strategy due to the abundance of possibilities and uncertainties associated with large-scale digital transformations. At Marytechenock Solution, we are specialist consultants. We give advice on cloud vs. on-premise solutions, system design, new technologies, supply chain and business process optimisation, and other topics.<h5 class="text-black text-lower Case"></h5>We understand that there is no one-size-fits-all answer. That's why we design individual roadmaps for each of our customers, based on where they are and where they want to go.</p>
+        <h5 class="text-primary display-8 mb-3">Digital transformation</h5>
+            <h1 class="display-5 mb-4">Digital Strategy</h1>            
+            <p class="mb-4">Many organisations are unsure where to begin with their digital strategy due to the abundance of possibilities and uncertainties associated with large-scale digital transformations. <p></p> At Marytechenock Solution, we are specialist consultants. We give advice on cloud vs. on-premise solutions, system design, new technologies, supply chain and business process optimisation, and other topics.  <p></p> We understand that there is no one-size-fits-all answer. That's why we design individual roadmaps for each of our customers, based on where they are and where they want to go.</p>
+            <p></p>
+         <a href="html/contact.php" class="btn btn-primary py-md-3 px-md-5 rounded-pill mb-5">Reach Out to Us!</a>
         </div>
         <div class="col-lg-6" style="min-height: 80px;">
         
             <div class="position-relative h-100" style="border-style:soilid; border-width:6px; border-color:green;">
-                <img class="" src="../../../img/what 3.jpg" style=" height:200px; width:200px;">
-                <img class="mt-4 rounded" src="../../../img/what 3.jpg" style="height:200px; width:200px;">
+                <img class="mt-4 rounded" src="../../../img/what 3.jpg" style=" height:460px; width:500px;">
             </div>
             
         </div>
     </div>
 </div>
-<div class="container-fluid bg-secondary px-0" id="quote-form" style="margin-top: 30px;">
-    <div>
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" preserveAspectRatio="none"><path fill="currentColor" fill-opacity="1" d="M0,128L120,117.3C240,107,480,85,720,112C960,139,1200,213,1320,250.7L1440,288L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z"></path></svg>
-        
+<div class="container-fluid bg-secondary px-0" id="quote-form" style="margin-top:0px;">
+    <div> 
     </div>
     <div style="display: flex; justify-content:center; flex-direction: column;">
-        <h1 class="display-15 mb-4" style="text-align: center;">Determine a Destination</h1>
+    <p></p>
+        <h1 class="display-10 mb-4" style="text-align: center;">Determine a destination</h1>
             <p style="text-align: center;">Successful digital transformations start with a clear vision. Our consultants help clients:</p>
     </div>
-    <div class="row g-0 mt-4">
+    <div class="row g-0 mt-2">
         <div class="col-lg-6" style="min-height: 400px;">
             <div class="position-relative h-100">
-                <img class="position-absolute w-100 h-100" src="../../../img/Destination.jpeg" style="object-fit: cover;">
+                <img class="mt-4 rounded position-absolute w-100 h-100" src="../../../img/Destination.jpeg" style="object-fit: cover;">
             </div>
         </div>
-        <div class="col-lg-6 py- px-5">
-            
-
-            <h2 class="display-15 mb-4">Define & Develop</h2>
-            <h4>Quick Wins</h4>
+        <div class="col-lg-6 py- px-5">  
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+            <h2 class="display-10 mb-4">Define & Develop</h2>
+            <h5>Quick Wins</h5>
+            <p></p>
             <p class="mb-4">
                 We set short-term goals to make the most of an organization’s current systems and processes.
                 </p>
-                <h4>A Long-Term Blueprint</h4>
-                <p>
+                <h5>A Long-Term Blueprint</h5>
+                <p></p>
                 We look at the bigger picture to help clients conceptualize how new technologies will blend with their operations and culture.
                 </p>
-                <h4>Business Requirements & Needs</h4>
-                <p>
+                <h5>Business Requirements & Needs</h5>
+                <p></p>
                 Together with our clients, we nail down priorities and the support their organization will need to grow.
                 </p>
         </div>
@@ -113,22 +112,23 @@
         <div class="col-lg-6 py- px-5">
 
             <h2 class="display-15 mb-4">Develop & Execute</h2>
-            <h4>Alternatives & Recommendations</h4>
+            <h5>Alternatives & Recommendations</h5>
+            <p></p>
             <p class="mb-4">
                 We match clients with the best solutions for their overall business strategy.
-                </p>
-                <h4>Implementation Plans & Budgets</h4>
-                <p>
+                <p></p>
+                <h5>Implementation Plans & Budgets</h5>
+                <p></p>
                 We help organizations set milestones and constraints to keep them on track.
-                </p>
-                <h4>Business Case & ROI</h4>
-                <p>
+                <p></p>
+                <h5>Business Case & ROI</h5>
+                <p></p>
                 We aid in developing a benefits realization plan to justify a company’s long-term approach.
-                </p>
+                <p></p>
         </div>
         <div class="col-lg-6" style="min-height: 400px;">
             <div class="position-relative h-100">
-                <img class="position-absolute w-100 h-100" src="../../../img/Destination.jpeg" style="object-fit: cover;">
+                <img class="mt-8 rounded position-absolute w-100 h-100" src="../../../img/Destination.jpeg" style="object-fit: cover;">
             </div>
         </div>
         

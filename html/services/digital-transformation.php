@@ -82,6 +82,7 @@
                                         </div>
                                         <div class="flip-card-front">
                                             <h5 class="mb-3">Digital Strategy</h5>
+                                            <p></p>
                                             <p class="mb-0">We develop strategic roadmaps tailored to our clients’ people, processes, and technology.</p>                           
                                             <a href="./digital-transformation-services/digital-strategy.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
                                         </div>                  
@@ -95,6 +96,8 @@
                                         </div>
                                         <h5 class="mb-3"> Software Selection</h5>
                                         <p class="mb-0">We help organizations identify their requirements and cut through vendor sales technical language to find the best-fit software for our client business.</p>
+                                        <p></p>
+                                        <p></p>
                                         <a href="./digital-transformation-services/software-selection.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
                                     </div>
                                 </div>
@@ -104,7 +107,9 @@
                                             <i class="fa -user-tie fa-2x"></i><img class="w-100" src="../../img/Marytech Logo_Red-03.png" alt="Image">
                                         </div>
                                         <h5 class="mb-3"> Software Implementation </h5>
-                                        <p class="mb-0">After the selection of the preferred technology has been done, we can help your organization migrate your old data from your legacy system to a new system. We conduct data mapping and cleaning, and systems integration through the Application programming interface (API).</p>
+                                        <p class="mb-0">We can assist your company with migrating existing data from a legacy system to a new system once the preferred technology has been determined.</p>
+                                        <p></p>
+                                        <p></p>
                                         <a href="./digital-transformation-services/software-implemetation.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
                                     </div>
                                 </div>

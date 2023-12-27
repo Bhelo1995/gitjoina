@@ -20,9 +20,9 @@
         <div class="row">
             <div class="col-12 text-center">
                 <h1 class="display-4 text-white">Contact Us</h1>
-                <i class="far fa-award text-primary px-2"></i>
+                <i class=" text-primary px-2"></i>
                 <a href="../index.html">Home</a>
-                <i class="far fa-award text-primary px-2"></i>
+                <i class="text-primary px-2"></i>
                 <a href="">Contact</a>
             </div>
         </div>

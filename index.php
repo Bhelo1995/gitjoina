@@ -37,7 +37,7 @@
                                 in your Organization.</p>
                             <p></p>
                             <a href="#quote-form" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Get A Free Quote</a>
-                            <a href="html/contact.php" class="btn btn-secondary py-md-3 px-md-5 rounded-pill">Please Contact Us</a>
+                            <a href="contact.php" class="btn btn-secondary py-md-3 px-md-5 rounded-pill">Please Contact Us</a>
                         </div>
                     </div>
                 </div>
@@ -55,12 +55,12 @@
                             <h3 class="text-white mb-md-4">Your Leading Digital Transformation Expert in (SADC)</h3>
                             <p></p>
                             <p data-animation="fadeInUp" class="one myTextStyling" data-delay="" >We understand that navigating into todays technology climate can be bit frustrating, especially within the digital transformation industry and key distinction required for it to be successful.
-                                MARYTECHENOCK SOLUTIONS serves as an technology-agnostic advisor and collaborative partner to our client community. We provide unparallel industry expertise and proven methodologies to optimize any technology transformation and maximize business value. </p>
+                                 <span class= "Boldname" >MARYTECHENOCK SOLUTIONS</span>  serves as an technology-agnostic advisor and collaborative partner to our client community. We provide unparallel industry expertise and proven methodologies to optimize any technology transformation and maximize business value. </p>
                         <p></p>
                         <p></p>
 
                                 <a href="#quote-form" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Get A Free Quote</a>
-                            <a href="html/contact.php" class="btn btn-secondary py-md-3 px-md-5 rounded-pill">Please Contact Us</a>
+                            <a href="contact.php" class="btn btn-secondary py-md-3 px-md-5 rounded-pill">Please Contact Us</a>
                         </div>
                     </div>
                 </div>

@@ -40,32 +40,32 @@
     <div class="container-fluid bg-dark p-2">
         <div class="row">
             <div class="col-12 text-center">
-                <h1 class="display-4 text-white">Digital-Transformation-Services</h1>
-                <i class="far fa-award text-primary px-2"></i>
-                <a href="software-selection.php">Software Selection</a>
-                <i class="far fa-award text-primary px-2"></i>
-                <a href="software-implemetation.php">Software Implementation</a>
+                <h1 class="display-4 text-white">◉ Digital-Transformation-Services</h1>
+                <i class="text-primary px-2"></i>
+                <a href="software-selection.php">◎ Software Selection</a>
+                <i class=" text-primary px-2"></i>
+                <a href="software-implemetation.php">◎ Software Implementation</a>
             </div>
         </div>
     </div>
     <!-- Page Header End -->
 
     <!-- Digital Strategy-->
-    <div class="container-fluid pt-6 px-5" style="min-height: 500px;">
+    <div class="container-fluid pt-6 px-8" style="min-height: 500px;">
 <!-- Quote Start -->
 <div class="container-fluid bg-secondary px-0" id="quote-form">
     <div class="row g-0">
         <div class="col-lg-6 py-6 px-5">
-        <h5 class="text-primary display-8 mb-3">Digital transformation</h5>
+        <h5 class="text-primary display-8 mb-3">◉ Digital transformation</h5>
             <h1 class="display-5 mb-4">Digital Strategy</h1>            
             <p class="mb-4">Many organisations are unsure where to begin with their digital strategy due to the abundance of possibilities and uncertainties associated with large-scale digital transformations. <p></p> At Marytechenock Solution, we are specialist consultants. We give advice on cloud vs. on-premise solutions, system design, new technologies, supply chain and business process optimisation, and other topics.  <p></p> We understand that there is no one-size-fits-all answer. That's why we design individual roadmaps for each of our customers, based on where they are and where they want to go.</p>
             <p></p>
-         <a href="html/contact.php" class="btn btn-primary py-md-3 px-md-5 rounded-pill mb-5">Reach Out to Us!</a>
+         <a href="../../../contact.php" class="btn btn-primary py-md-3 px-md-5 rounded-pill mb-5">Reach Out to Us!</a>
         </div>
         <div class="col-lg-6" style="min-height: 80px;">
         
             <div class="position-relative h-100" style="border-style:soilid; border-width:6px; border-color:green;">
-                <img class="mt-4 rounded" src="../../../img/what 3.jpg" style=" height:460px; width:500px;">
+                <img class="mt-4 rounded" src="../../../img/total.jpeg" style=" height:460px; width:500px;">
             </div>
             
         </div>
@@ -80,9 +80,9 @@
             <p style="text-align: center;">Successful digital transformations start with a clear vision. Our consultants help clients:</p>
     </div>
     <div class="row g-0 mt-2">
-        <div class="col-lg-6" style="min-height: 400px;">
+        <div class="col-lg-6" style="min-height: 80px;">
             <div class="position-relative h-100">
-                <img class="mt-4 rounded position-absolute w-100 h-100" src="../../../img/Destination.jpeg" style="object-fit: cover;">
+                <img class="mt-4 rounded position-absolute w-100 h-100" src="../../../img/Watch.jpeg" style="object-fit: cover;">
             </div>
         </div>
         <div class="col-lg-6 py- px-5">  
@@ -91,18 +91,20 @@
         <p></p>
         <p></p>
             <h2 class="display-10 mb-4">Define & Develop</h2>
+            <p></p>
+            <p></p>
+            <p></p>
             <h5>Quick Wins</h5>
             <p></p>
-            <p class="mb-4">
-                We set short-term goals to make the most of an organization’s current systems and processes.
+            <p class="mb-4"> <span class= "italica">◎ </span> We set short-term goals to make the most of an organization’s current systems and processes.</span> 
                 </p>
                 <h5>A Long-Term Blueprint</h5>
                 <p></p>
-                We look at the bigger picture to help clients conceptualize how new technologies will blend with their operations and culture.
+                <p class="mb-4"> <span class= "italica">◎ </span>We look at the bigger picture to help clients conceptualize how new technologies will blend with their operations and culture.</span> 
                 </p>
                 <h5>Business Requirements & Needs</h5>
                 <p></p>
-                Together with our clients, we nail down priorities and the support their organization will need to grow.
+                <p class="mb-4"> <span class= "italica">◎ </span> Together with our clients, we nail down priorities and the support their organization will need to grow.</span> 
                 </p>
         </div>
         
@@ -114,21 +116,20 @@
             <h2 class="display-15 mb-4">Develop & Execute</h2>
             <h5>Alternatives & Recommendations</h5>
             <p></p>
-            <p class="mb-4">
-                We match clients with the best solutions for their overall business strategy.
+            <p class="mb-4"> <p class="mb-4"><span class= "italica">◎ </span>We match clients with the best solutions for their overall business strategy.</span> 
                 <p></p>
                 <h5>Implementation Plans & Budgets</h5>
                 <p></p>
-                We help organizations set milestones and constraints to keep them on track.
+                <p class="mb-4"> <p class="mb-4"> <span class= "italica">◎ </span> We help organizations set milestones and constraints to keep them on track.</span> 
                 <p></p>
                 <h5>Business Case & ROI</h5>
                 <p></p>
-                We aid in developing a benefits realization plan to justify a company’s long-term approach.
+                <p class="mb-4"> <p class="mb-4"> <span class= "italica">◎ </span> We aid in developing a benefits realization plan to justify a company’s long-term approach.</span> 
                 <p></p>
         </div>
         <div class="col-lg-6" style="min-height: 400px;">
             <div class="position-relative h-100">
-                <img class="mt-8 rounded position-absolute w-100 h-100" src="../../../img/Destination.jpeg" style="object-fit: cover;">
+                <img class="mt-8 rounded position-absolute w-100 h-100" src="../../../img/what.jpeg" style="object-fit: cover;">
             </div>
         </div>
         

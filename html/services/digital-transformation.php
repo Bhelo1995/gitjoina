@@ -40,30 +40,29 @@
     <div class="container-fluid bg-dark p-5">
         <div class="row">
             <div class="col-12 text-center">
-                <h1 class="display-4 text-white">Digital Transformation Services</h1>
-                <i class="far fa-award text-primary px-2"></i>
-                <a href="digital-marketing.php">Digital Marketing</a>
-                <i class="far fa-award text-primary px-2"></i>
-                <a href="organisational-change-management.php">organisational-change-management</a>
-                <i class="far fa-award text-primary px-2"></i>
-                <a href="Business-&-technology-Advisory.php">Business-&-technology-Advisory</a>
-                <i class="far fa-award text-primary px-2"></i>
-                <a href="mobile-and-web-app-dev.php">Mobile and Web Application Development</a>
-                <i class="far fa-award text-primary px-2"></i>
-                <a href="it-consulting.php">IT Consulting</a>
+            <div>
+              <img class="mt-4 rounded " class="img1" src="../../img/digi.jpeg" alt="P" width="500" height="200">
+              <p></p>
+              <p></p>
+              <div class="col-12 text-center">
+                <h1 class="display-4 text-white">◉ Digital Transformation Services</h1>
+                <i class=" text-primary px-2"></i>
+                <a href="digital-marketing.php">◎ Digital Marketing</a>
+                <i class=" text-primary px-2"></i>
+                <a href="organisational-change-management.php">◎ Organisational Change-Management</a>
+                <i class=" text-primary px-2"></i>
+                <a href="Business-&-technology-Advisory.php">◎ Business & Technology Advisory</a>
+                <i class="text-primary px-2"></i>
+                <a href="mobile-and-web-app-dev.php">◎ Mobile & Web Application Development</a>
+                <i class=" text-primary px-2"></i>
+                <a href="it-consulting.php">◎ IT Consulting</a>
             </div>
         </div>
     </div>
+
     <!-- Page Header End -->
 
     <!-- Digital transformation information start-->
-    <div class="container-fluid p-0">
-        <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
-            <div class="carousel-inner" style="height:80px;">
-                <div class="carousel-item active carousel-max-height">
-                    <img class="w-100" src="../../img/bg4.png" alt="Image">
-                    <div class="carousel-caption d-flex flex-column align-items-center justify-content-center" style="margin-bottom: 100px;">
-                        <div class="p-3" style="max-width: 1050px; margin-bottom: 200px;">
                         </div>
                     </div>
                 </div>

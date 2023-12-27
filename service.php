@@ -19,11 +19,11 @@
     <div class="container-fluid bg-dark p-5">
         <div class="row">
             <div class="col-12 text-center">
-                <h1 class="display-4 text-white">Our Services</h1>
-                <i class="far fa-award text-primary px-2"></i>
-                <a href="index.php">Home</a>
-                <i class="far fa-award text-primary px-2"></i>
-                <a href="">Services</a>
+                <h1 class="display-4 text-white">◉ Our Services</h1>
+                <i class="text-primary px-2"></i>
+                <a href="index.php">◎ Home</a>
+                <i class="text-primary px-2"></i>
+                <a href="">◎ Services</a>
             </div>
         </div>
     </div>

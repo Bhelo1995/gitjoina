@@ -40,13 +40,13 @@
     <div class="container-fluid bg-dark p-5">
         <div class="row">
             <div class="col-12 text-center">
-                <h1 class="display-4 text-white">Digital Transformation Services</h1>
-                <i class="far fa-award text-primary px-2"></i>
-                <a href="./digital-strategy.php">Digital Strategy</a>
-                <i class="far fa-award text-primary px-2"></i>
-                <a href="./software-selection.php">Software Selection</a>
-                <i class="far fa-award text-primary px-2"></i>
-                <a href="./software-implemetation.php">Software Implementation</a>
+                <h1 class="display-4 text-white">◉ Digital Transformation Services</h1>
+                <i class="text-primary px-2"></i>
+                <a href="./digital-strategy.php">◎ Digital Strategy</a>
+                <i class="text-primary px-2"></i>
+                <a href="./software-selection.php">◎ Software Selection</a>
+                <i class="text-primary px-2"></i>
+                <a href="./software-implemetation.php">◎ Software Implementation</a>
             </div>
         </div>
     </div>
@@ -56,13 +56,13 @@
 <div class="container-fluid bg-secondary px-10" id="quote-form">
     <div class="row g-0">
         <div class="col-lg-6 py-6 px-5">
-        <h5 class="text-primary display-8 mb-3">Digital transformation</h5>
+        <h5 class="text-primary display-8 mb-3">◉ Digital transformation</h5>
             <h1 class="display-5 mb-4">Software Selection</h1>
             <p class="mb-4"> Choosing the appropriate software is an adventure. To the best of our ability, Marytechenock Solution assists your organisation in selecting the best technology on our bucket list.<p></p>Unlike large consulting firms, we do not sell software. We simply assist clients in selecting the optimal ERP, CRM, HCM, WMS, or emerging technology solutions based on our broad knowledge with multiple technologies and each client's unique characteristics. <p></p>We help businesses of all sizes find the right solution for their specific operational requirements.</p>
         </div>
         <div class="col-lg-6" style="min-height: 400px;">
             <div class="position-relative h-100">
-                <img class="position-absolute w-100 h-100" src="../../../img/what 3.jpg" style="object-fit: cover;">
+                <img class="mt-4 rounded position-absolute w-100 h-100" src="../../../img/3.jpeg" style="object-fit: cover;">
             </div>
         </div>
     </div>
@@ -79,18 +79,18 @@
     <div class="row g-0 mt-2">
         <div class="col-lg-6" style="min-height: 400px;">
             <div class="position-relative h-100">
-                <img class="mt-4 rounded position-absolute w-100 h-100" src="../../../img/Destination.jpeg" style="object-fit: cover;">
+                <img class="mt-4 rounded position-absolute w-100 h-100" src="../../../img/5.jpeg" style="object-fit: cover;">
             </div>
         </div>
 
         <div class="col-lg-6 py-6 px-5">
-            <h3 class="display-7 mb-4">Evaluation & Requirements</h3>
+            <h2 class="display-7 mb-4">Evaluation & Requirements</h2>
             <h5>Business & Functionality </h5>
-            <p class="mb-4">We help clients nail down their must-haves and deal-breaker requirements to narrow the pool.</p>
+            <p class="mb-4"> <span class= "italica">◎ </span> We help clients nail down their must-haves and deal-breaker requirements to narrow the pool.</span> 
             <h5>Realistic Goals</h5>
-            <p></p>We’ll conduct implementation planning to develop a realistic budget and rollout plan.</p>
+            <p></p><p class="mb-4"> <span class= "italica">◎ </span> We’ll conduct implementation planning to develop a realistic budget and rollout plan.</span>
             <h5>Best-Fit Solutions</h5>
-            <p></p>Our experts identify the best technologies to support our clients’ people, processes, and culture.</p>
+            <p></p><p class="mb-4"><span class= "italica">◎ </span> Our experts identify the best technologies to support our clients’ people, processes, and culture.</span>
         </div>
         
     </div>
@@ -100,15 +100,15 @@
         <div class="col-lg-6 py-6 px-5">
             <h1 class="display-5 mb-4">What We’ll Handle</h1>
             <h5>Negotiations with Vendors </h5>
-            <p class="mb-4">WWe speak the language and can see through sparkly sales pitches to understand a vendor’s offerings and capabilities.</p>
+            <p class="mb-4"> <span class= "italica">◎ </span> We speak the language and can see through sparkly sales pitches to understand a vendor’s offerings and capabilities.</span> 
             <h5>Software Workshops</h5>
-            <p></p>We join our clients during software demos to evaluate whether the solutions meet their requirements.</p>
+            <p></p><p class="mb-4"> <span class= "italica">◎ </span> We join our clients during software demos to evaluate whether the solutions meet their requirements.</span> 
             <h5>Guiding the Transition</h5>
-            <p></p>Consider us a resource, from the first brainstorm session to a successful go live and beyond.</p>
+            <p></p><p class="mb-4"> <span class= "italica">◎ </span> Consider us a resource, from the first brainstorm session to a successful go live and beyond.</span> 
         </div>
         <div class="col-lg-6" style="min-height: 400px;">
             <div class="position-relative h-100">
-                <img class="position-absolute w-100 h-100" src="../../../img/what 3.jpg" style="object-fit: cover;">
+                <img class="mt-4 rounded position-absolute w-100 h-100" src="../../../img/4.jpeg" style="object-fit: cover;">
             </div>
         </div>
     </div>

@@ -275,9 +275,20 @@ h6,
 } */
 
 p.one{
-    font-size: xx-large
-    color white 
-    fontweight medium
+    font-size:large;
+    color: #f1f1f1;
+    font-weight:200;
+    font-style: oblique;
+    font: lighter;
+}
+.Boldname{
+font-weight:large;
+color: #F3525A;
+}
+
+.italica{
+    color: #F3525A;;
+    font-weight: lighter;
 }
 
 .flip-card {
@@ -323,4 +334,22 @@ p.one{
     background-color: dodgerblue;
     color: white;
     transform: rotateY(180deg);
+  }
+  div {
+    border: 3px solid #4CAF50;
+    padding: 5px;
+  }
+  
+  .img1 {
+    float: right;
+  }
+  
+  .img2 {
+    float: right;
+  }
+  
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
   }

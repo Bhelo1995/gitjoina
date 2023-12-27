@@ -40,17 +40,17 @@
     <div class="container-fluid bg-dark p-5">
         <div class="row">
             <div class="col-12 text-center">
-                <h1 class="display-4 text-white">Business & Technology Advisory</h1>
-                <i class="far fa-award text-primary px-2"></i>
-                <a href="digital-transformation.php">Digital Transformation</a>
-                <i class="far fa-award text-primary px-2"></i>
-                <a href="digital-marketing.php">Digital Marketing</a>
-                <i class="far fa-award text-primary px-2"></i>
-                <a href="mobile-and-web-app-dev.php">Mobile and Web Application Development</a>
-                <i class="far fa-award text-primary px-2"></i>
-                <a href="it-consulting.php">IT Consulting</a>
-                <i class="far fa-award text-primary px-2"></i>
-                <a href="organisational-change-management.php">Organizational Change Management</a>
+                <h1 class="display-4 text-white">◉ Business & Technology Advisory</h1>
+                <i class="text-primary px-2"></i>
+                <a href="digital-transformation.php">◎Digital Transformation</a>
+                <i class=" text-primary px-2"></i>
+                <a href="digital-marketing.php">◎Digital Marketing</a>
+                <i class=" text-primary px-2"></i>
+                <a href="mobile-and-web-app-dev.php">◎Mobile and Web Application Development</a>
+                <i class=" text-primary px-2"></i>
+                <a href="it-consulting.php">◎Information System Audits</a>
+                <i class=" text-primary px-2"></i>
+                <a href="organisational-change-management.php">◎Organizational Change Management</a>
             </div>
         </div>
     </div>
@@ -58,23 +58,6 @@
     
 
     <!-- Digital transformation information start-->
-    <div class="container-fluid p-0">
-        <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
-            <div class="carousel-inner" style="height:400px;">
-                <div class="carousel-item active carousel-max-height">
-                    <img class="w-100" src="../../img/bg4.png" alt="Image">
-                    <div class="carousel-caption d-flex flex-column align-items-center justify-content-center" style="margin-bottom: 100px;">
-                        <div class="p-3" style="max-width: 1100px; margin-bottom: 400px;">
-                            <h5 class="text-white text-uppercase">MARYTECHENOCK IT Solutions Specialist</h5>
-                            <h4 class="align-text-center display-1 text-black mb-md-4" style="text-align: center; color: aliceblue; font-size: 50px;">Lets Build Your Dream Together</h4>
-                            <p data-animation="fadeInUp" data-delay="" style="text-align: center;">At MARYTECHENOCK SOLUTION, we look beyond technology to take a holistic view of every aspect of a client’s business. <br/><br/> We take into consideration our client’s internal structure, culture, current technology, and methods of business,<br/>  and we advise them on whether a new digital infrastructure is the best way to achieve their goals.</p>
-                        </div>
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-    </div>
     <div class="container-fluid pt-6 px-5" style="min-height: 500px; text-align: center;">
        
                             <div class="row g-5">
@@ -85,7 +68,7 @@
                                         </div>
                                         <h5 class="mb-3">Business Process Management</h5>
                                         <p class="mb-0">We evaluate our clients’ current processes and optimize them for efficiency and scalability.<p>
-                                        <a href="./digital-transformation-services/digital-strategy.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
+                                        <a href="./Business-&-technology-Advisory/business-process.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6">
@@ -93,7 +76,7 @@
                                         <div class="d-flex align-items-center justify-content-center bg-primary text-white rounded-circle mx-auto mb-4" style="width: 60px; height: 60px;">
                                             <i class="fa -user-tie fa-2x"></i><img class="w-100" src="../../img/Marytech Logo_Red-03.png" alt="Image">
                                         </div>
-                                        <h5 class="mb-3"> Data Architecture & Migrayion</h5>
+                                        <h5 class="mb-3"> Data Architecture & Migration</h5>
                                         <p class="mb-0">We help organizations identify their requirements and cut through vendor sales technical language to find the best-fit software for our client business.</p>
                                         <a href="./digital-transformation-services/software-selection.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
                                     </div>

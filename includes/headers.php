@@ -50,9 +50,9 @@
               <div class="nav-item dropdown">
                   <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Technology</a>
                   <div class="dropdown-menu m-0">
-                      <a href="./html/pages/blog.php" class=" dropdown-item">Odoo ERP SYSTEM</a>
-                      <a href="html/pages/detail.php" class=" dropdown-item">Sage Business Cloud X3</a>
-                      <a href="html/pages/feature.php" class=" dropdown-item">Cin7 Core (formerly known as DEAR)</a>
+                      <a href="./html/Technology/odoo.php" class=" dropdown-item">Odoo ERP SYSTEM</a>
+                      <a href="html/Technology/Sage Business Cloud X3.php" class=" dropdown-item">Sage Business Cloud X3</a>
+                      <a href="html/Technology/Cin7.php" class=" dropdown-item">Cin7 Core (formerly known as DEAR)</a>
 
                   </div>
               </div>

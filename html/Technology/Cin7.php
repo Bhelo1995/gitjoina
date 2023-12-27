@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MARYTECHENOCK - Software Implementation</title>
+    <title>MARYTECHENOCK - Digital Strategy</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
@@ -35,71 +35,101 @@
         include("../../../includes/headers.php");
     
     ?>
+
     <!-- Page Header Start -->
-    <div class="container-fluid bg-dark p-5">
+    <div class="container-fluid bg-dark p-2">
         <div class="row">
             <div class="col-12 text-center">
-                <h1 class="display-4 text-white">◉ Software-Implementation</h1>
-                <i class=" text-primary px-2"></i>
-                <a href="./digital-strategy.php">◎ Digital Strategy</a>
-                <i class=" text-primary px-2"></i>
-                <a href="./software-selection.php">◎ Software-selection</a>
+                <h1 class="display-4 text-white">Digital-Transformation-Services</h1>
+                <i class="far fa-award text-primary px-2"></i>
+                <a href="software-selection.php">Software Selection</a>
+                <i class="far fa-award text-primary px-2"></i>
+                <a href="software-implemetation.php">Software Implementation</a>
             </div>
         </div>
     </div>
     <!-- Page Header End -->
 
-    <!-- Software-implementation information start-->
-    <!-- <div class="container-fluid pt-6 px-5" style="min-height: 500px;">
-        SOFTWARE IMPLEMENTATION INFO HERE... <br>
-        <a href="../digital-transformation.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Go Back To Digital Transformation Services</a>
-        <a href="../../service.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Go Back To All Services</a> <br>
-    </div> -->
-    <!-- software-implementation information end-->
-
-    <!-- Quote Start -->
+    <!-- Digital Strategy-->
+    <div class="container-fluid pt-6 px-5" style="min-height: 500px;">
+<!-- Quote Start -->
 <div class="container-fluid bg-secondary px-0" id="quote-form">
     <div class="row g-0">
         <div class="col-lg-6 py-6 px-5">
-        <h5 class="text-primary display-8 mb-3">◉ Digital transformation</h5>
-            <h1 class="display-5 mb-4">Software Implemenation</h1>
-            <p class="mb-4">We assist you in transitioning from your existing inventory management system to a new system. As an ERP consulting firm, we assist organisations in managing and automating their essential day-to-day business activities by utilising enterprise resource planning (ERP) software. We provide services and activities that assist businesses with ERP setup and optimisation.<p></p>Our ERP implementation services are built on the notion that ERP projects are not just technology projects; they are fundamentally business projects that require appropriate technology. <p></p>Our experience has shown us that the principal points of failure in implementing ERP systems are related to process and people issues. This is why our ERP implementation consultants and overall implementation methodology balance technical tasks with process- and people-centric activities.</p>
+        <h5 class="text-primary display-8 mb-3">Digital transformation</h5>
+            <h1 class="display-5 mb-4">Digital Strategy</h1>            
+            <p class="mb-4">Many organisations are unsure where to begin with their digital strategy due to the abundance of possibilities and uncertainties associated with large-scale digital transformations. <p></p> At Marytechenock Solution, we are specialist consultants. We give advice on cloud vs. on-premise solutions, system design, new technologies, supply chain and business process optimisation, and other topics.  <p></p> We understand that there is no one-size-fits-all answer. That's why we design individual roadmaps for each of our customers, based on where they are and where they want to go.</p>
+            <p></p>
+         <a href="html/contact.php" class="btn btn-primary py-md-3 px-md-5 rounded-pill mb-5">Reach Out to Us!</a>
         </div>
-        <div class="col-lg-6" style="min-height: 400px;">
-            <div class="position-relative h-100">
-                <img class="position-absolute w-100 h-100" src="../../../img/what 3.jpg" style="object-fit: cover;">
+        <div class="col-lg-6" style="min-height: 80px;">
+        
+            <div class="position-relative h-100" style="border-style:soilid; border-width:6px; border-color:green;">
+                <img class="mt-4 rounded" src="../../../img/what 3.jpg" style=" height:460px; width:500px;">
             </div>
+            
         </div>
     </div>
 </div>
-<div class="container-fluid bg-secondary px-0" id="quote-form" style="margin-top: 30px;">
-    <div class="row g-0">
+<div class="container-fluid bg-secondary px-0" id="quote-form" style="margin-top:0px;">
+    <div> 
+    </div>
+    <div style="display: flex; justify-content:center; flex-direction: column;">
+    <p></p>
+        <h1 class="display-10 mb-4" style="text-align: center;">Determine a destination</h1>
+            <p style="text-align: center;">Successful digital transformations start with a clear vision. Our consultants help clients:</p>
+    </div>
+    <div class="row g-0 mt-2">
         <div class="col-lg-6" style="min-height: 400px;">
             <div class="position-relative h-100">
-                <img class="position-absolute w-100 h-100" src="../../../img/what 3.jpg" style="object-fit: cover;">
+                <img class="mt-4 rounded position-absolute w-100 h-100" src="../../../img/Destination.jpeg" style="object-fit: cover;">
             </div>
         </div>
-        <div class="col-lg-6 py-6 px-5">
-            <h3 class="text-primary display-5 mb-4">Implement with us!</h3>
-            <h4 class="display-8 mb-2">Implementation Focal Points</h4>
-            <p class="mb-4"> <span class= "italica">Use our ERP implementation consulting services to fuel your success!</span> 
+        <div class="col-lg-6 py- px-5">  
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+            <h2 class="display-10 mb-4">Define & Develop</h2>
+            <h5>Quick Wins</h5>
             <p></p>
+            <p class="mb-4">
+                We set short-term goals to make the most of an organization’s current systems and processes.
+                </p>
+                <h5>A Long-Term Blueprint</h5>
+                <p></p>
+                We look at the bigger picture to help clients conceptualize how new technologies will blend with their operations and culture.
+                </p>
+                <h5>Business Requirements & Needs</h5>
+                <p></p>
+                Together with our clients, we nail down priorities and the support their organization will need to grow.
+                </p>
+        </div>
+        
+    </div>
+    
+    <div class="row g-0" style="margin-top: 100px;">
+        <div class="col-lg-6 py- px-5">
+
+            <h2 class="display-15 mb-4">Develop & Execute</h2>
+            <h5>Alternatives & Recommendations</h5>
             <p></p>
-Marytechenock is committed to ensuring your ERP implementation is a success. Our ERP implementation services ensure that:
-<p></p>
-<p></p>
-<p></p>
-<span class= "Boldname" >◎ </span>   System design and configuration are aligned with the organisation’s business processes and policies.
-<p></p>
-<p></p>
-<span class= "Boldname" >◎ </span>  Testing activities are based on the requirements initially defined and approved for the project.
-<p></p>
-<p></p>
-<span class= "Boldname" >◎ </span>  All processes are fully defined and understood.
-<p></p>
-<p></p>
-<span class= "Boldname" >◎ </span>  The organisation is well-prepared for the change to come.
-<p></p>
+            <p class="mb-4">
+                We match clients with the best solutions for their overall business strategy.
+                <p></p>
+                <h5>Implementation Plans & Budgets</h5>
+                <p></p>
+                We help organizations set milestones and constraints to keep them on track.
+                <p></p>
+                <h5>Business Case & ROI</h5>
+                <p></p>
+                We aid in developing a benefits realization plan to justify a company’s long-term approach.
+                <p></p>
+        </div>
+        <div class="col-lg-6" style="min-height: 400px;">
+            <div class="position-relative h-100">
+                <img class="mt-8 rounded position-absolute w-100 h-100" src="../../../img/Destination.jpeg" style="object-fit: cover;">
+            </div>
         </div>
         
     </div>
@@ -155,12 +185,14 @@ Get a free consultation from one of our in-house experts to learn the most suita
         </div>
         <div class="col-lg-6" style="min-height: 400px;">
             <div class="position-relative h-100">
-                <img class="position-absolute w-100 h-100" src="../../../img/quotes.jpg" style="object-fit: cover;">
+                <img class="position-absolute w-100 h-100" src="../../../img/Baby.png" style="object-fit: cover;">
             </div>
         </div>
     </div>
 </div>
 <!-- Quote End -->
+        
+    <!-- Digital marketing information end-->
 
     <!-- Footer Start -->
     <div class="container-fluid bg-primary text-secondary p-5">

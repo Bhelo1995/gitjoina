@@ -24,6 +24,10 @@
 
   <!-- Navbar Start -->
   <nav class="navbar navbar-expand-lg bg-white navbar-light shadow-sm px-5 py-3 py-lg-0">
+
+  
+
+
       <a href="index.php">
           <?php
             $file = file_exists('img/Image1.jpeg') ? 'img/Image1.jpeg' : '../img/Image1.jpeg';
@@ -42,22 +46,24 @@
             $aboutURL = $_SERVER['REQUEST_URI'] != '/site\/' ? '/site/about.php' : 'about.php';
             $serviceURL = $_SERVER['REQUEST_URI'] != '/site\/' ? '/site/service.php' : 'service.php';
             $contactURL = $_SERVER['REQUEST_URI'] != '/site\/' ? '/site/contact.php' : 'contact.php';
+            // $contactURL = $_SERVER['REQUEST_URI'] != '/site\/' ? '/site/te.php' : 'contact.php';
           
           ?>
               <a href="<?php echo $indexUrl; ?>" class="nav-item nav-link active"><i class="fa-solid fa-house"></i>Home</a>
               
               <a href="<?php echo $serviceURL;  ?>" class="nav-item nav-link">Services</a>
-              <div class="nav-item dropdown">
-                  <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Technology</a>
+             <div class="nav-item dropdown">
+                  <a href="#" class="nav-link dropdown-toggle techHover" id="techHover" data-bs-toggle="dropdown">Technology</a>
+    
                   <div class="dropdown-menu m-0">
                       <a href="./html/Technology/odoo.php" class=" dropdown-item">Odoo ERP SYSTEM</a>
                       <a href="html/Technology/Sage Business Cloud X3.php" class=" dropdown-item">Sage Business Cloud X3</a>
                       <a href="html/Technology/Cin7.php" class=" dropdown-item">Cin7 Core (formerly known as DEAR)</a>
-
                   </div>
               </div>
+              
               <div class="nav-item dropdown">
-                  <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Academic Courses</a>
+                  <a href="#" class="nav-link hoverdropdown-toggle" id="techHover" data-bs-toggle="dropdown">Academic Courses</a>
                   <div class="dropdown-menu m-0">
                       <a href="./html/pages/blog.php" class="dropdown-item">Internet of things (IOT)</a>
                       <a href="html/pages/detail.php" class="dropdown-item">Cloud System Analyst</a>

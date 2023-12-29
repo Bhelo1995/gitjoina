@@ -55,6 +55,19 @@
             '<i class="bi bi-arrow-right"></i>'
         ],
     });
+
+
+    //navbar hovering
+   
+
+    $('.techHover').hover(function () { 
+        console.log("testing test")
+        $(this).addClass('show'); 
+        $(this).find('.technologyHover').addClass('show'); 
+    }, function () { 
+        $(this).removeClass('show'); 
+        $(this).find('.technologyHover').removeClass('show'); 
+    }); 
     
 })(jQuery);
 

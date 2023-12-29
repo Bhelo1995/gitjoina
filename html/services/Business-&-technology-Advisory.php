@@ -29,6 +29,14 @@
 
     <!-- Template Stylesheet -->
     <link href="../../css/style.css" rel="stylesheet">
+
+    <style> 
+		.dropdown:hover .dropdown-menu { 
+			display: block; 
+		} 
+
+		
+	</style> 
 </head>
 <body>
 <?php 
@@ -68,7 +76,7 @@
                                         </div>
                                         <h5 class="mb-3">Business Process Management</h5>
                                         <p class="mb-0">We evaluate our clients’ current processes and optimize them for efficiency and scalability.<p>
-                                        <a href="./Business-&-technology-Advisory/business-process.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
+                                        <a href="./Business-&-technology-Advisory/Business-process.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6">
@@ -78,7 +86,7 @@
                                         </div>
                                         <h5 class="mb-3"> Data Architecture & Migration</h5>
                                         <p class="mb-0">We help organizations identify their requirements and cut through vendor sales technical language to find the best-fit software for our client business.</p>
-                                        <a href="./digital-transformation-services/software-selection.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
+                                        <a href="./Business-&-technology-Advisory/data-architecture-&-migration.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6">
@@ -88,7 +96,7 @@
                                         </div>
                                         <h5 class="mb-3"> Project Management </h5>
                                         <p class="mb-0">After the selection of the preferred technology has been done, we can help your organization migrate your old data from your legacy system to a new system. We conduct data mapping and cleaning, and systems integration through the Application programming interface (API).</p>
-                                        <a href="./digital-transformation-services/software-implemetation.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
+                                        <a href="./Business-&-technology-Advisory/Project-management.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
                                     </div>
                                 </div>
                                 <div style="display: flex; justify-content: end; margin-bottom: 5px; ">

@@ -335,10 +335,6 @@ color: #F3525A;
     color: white;
     transform: rotateY(180deg);
   }
-  div {
-    border: 3px solid #4CAF50;
-    padding: 5px;
-  }
   
   .img1 {
     float: right;
@@ -352,4 +348,16 @@ color: #F3525A;
     content: "";
     clear: both;
     display: table;
+  }
+
+  .technologyHover{
+    background-color: var(--light);
+    padding: auto;
+    border-width: 2;
+    border-color: #F3525A;
+    border-style: solid;
+  }
+
+  .techHover:hover>.technologyHover{
+    display: block;
   }

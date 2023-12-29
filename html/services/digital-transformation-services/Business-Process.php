@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MARYTECHENOCK - Digital Marketing</title>
+    <title>MARYTECHENOCK - Business Process Management
+    </title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
@@ -29,6 +30,14 @@
 
     <!-- Template Stylesheet -->
     <link href="../../css/style.css" rel="stylesheet">
+
+    <style> 
+		.dropdown:hover .dropdown-menu { 
+			display: block; 
+		} 
+
+		
+	</style> 
 </head>
 <body>
 <?php 

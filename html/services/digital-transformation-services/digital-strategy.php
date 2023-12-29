@@ -96,15 +96,15 @@
             <p></p>
             <h5>Quick Wins</h5>
             <p></p>
-            <p class="mb-4"> <span class= "italica">◎ </span> We set short-term goals to make the most of an organization’s current systems and processes.</span> 
+            <p class="mb-4"> <span class= "italica">◎ </span> We set short-term goals to make the most of an organization’s current systems and processes.
                 </p>
                 <h5>A Long-Term Blueprint</h5>
                 <p></p>
-                <p class="mb-4"> <span class= "italica">◎ </span>We look at the bigger picture to help clients conceptualize how new technologies will blend with their operations and culture.</span> 
+                <p class="mb-4"> <span class= "italica">◎ </span>We look at the bigger picture to help clients conceptualize how new technologies will blend with their operations and culture.
                 </p>
                 <h5>Business Requirements & Needs</h5>
                 <p></p>
-                <p class="mb-4"> <span class= "italica">◎ </span> Together with our clients, we nail down priorities and the support their organization will need to grow.</span> 
+                <p class="mb-4"> <span class= "italica">◎ </span> Together with our clients, we nail down priorities and the support their organization will need to grow.
                 </p>
         </div>
         
@@ -116,15 +116,15 @@
             <h2 class="display-15 mb-4">Develop & Execute</h2>
             <h5>Alternatives & Recommendations</h5>
             <p></p>
-            <p class="mb-4"> <p class="mb-4"><span class= "italica">◎ </span>We match clients with the best solutions for their overall business strategy.</span> 
+            <p class="mb-4"> <p class="mb-4"><span class= "italica">◎ </span>We match clients with the best solutions for their overall business strategy.
                 <p></p>
                 <h5>Implementation Plans & Budgets</h5>
                 <p></p>
-                <p class="mb-4"> <p class="mb-4"> <span class= "italica">◎ </span> We help organizations set milestones and constraints to keep them on track.</span> 
+                <p class="mb-4"> <p class="mb-4"> <span class= "italica">◎ </span> We help organizations set milestones and constraints to keep them on track.
                 <p></p>
                 <h5>Business Case & ROI</h5>
                 <p></p>
-                <p class="mb-4"> <p class="mb-4"> <span class= "italica">◎ </span> We aid in developing a benefits realization plan to justify a company’s long-term approach.</span> 
+                <p class="mb-4"> <p class="mb-4"> <span class= "italica">◎ </span> We aid in developing a benefits realization plan to justify a company’s long-term approach.
                 <p></p>
         </div>
         <div class="col-lg-6" style="min-height: 400px;">

@@ -29,6 +29,14 @@
 
     <!-- Template Stylesheet -->
     <link href="../../css/style.css" rel="stylesheet">
+
+    <style> 
+		.dropdown:hover .dropdown-menu { 
+			display: block; 
+		} 
+
+		
+	</style> 
 </head>
 <body>
 <?php 
